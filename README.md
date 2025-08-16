@@ -1,7 +1,7 @@
 ![Krisna Aditya](img/github-header-image.png)
 
 ### About me😺
-Hi, I'm I Komang Krisna Aditya Kusuma — a passionate Front-End Developer and IT student at ITB STIKOM Bali. I'm currently exploring backend development using Node.js, Express.js, and MySQL. I enjoy building responsive web applications and always eager to learn new technologies.
+Hi, I'm I Komang Krisna Aditya Kusuma — a passionate Front-End Developer and IT student at ITB STIKOM Bali. I'm currently exploring backend development using Go language, and MySQL. I enjoy building responsive web applications and always eager to learn new technologies.
 
 <!--
 **artesia0528/artesia0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
